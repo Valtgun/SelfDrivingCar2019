@@ -19,3 +19,6 @@
 - [ ] Semantic segmentation
 - [ ] Reinforcement Learning
 - [ ] Convolutional networks
+
+# Other
+- [ ] Carla simulator
